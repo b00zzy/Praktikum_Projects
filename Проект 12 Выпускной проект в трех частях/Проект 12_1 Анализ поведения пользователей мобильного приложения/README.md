@@ -23,4 +23,4 @@
 
 https://public.tableau.com/profile/pavel8157#!/vizhome/MobileApp-UslessThings/MobileApp-UslessThings
 
-И создана краткая презентация проведенного анализа
+И создана презентация проведенного исследования
